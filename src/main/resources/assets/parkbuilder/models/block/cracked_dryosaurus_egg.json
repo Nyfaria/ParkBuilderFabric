@@ -1,0 +1,6 @@
+{
+  "parent": "parkbuilder:block/template_dryosaurus_egg",
+  "textures": {
+    "1": "parkbuilder:blocks/dryosaurus_eggs_cracked"
+  }
+}

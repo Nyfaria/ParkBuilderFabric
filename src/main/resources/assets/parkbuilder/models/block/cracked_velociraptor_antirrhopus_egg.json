@@ -1,0 +1,6 @@
+{
+  "parent": "parkbuilder:block/template_velociraptor_antirrhopus_egg",
+  "textures": {
+    "1": "parkbuilder:blocks/velociraptor_antirrhopus_eggs_cracked"
+  }
+}

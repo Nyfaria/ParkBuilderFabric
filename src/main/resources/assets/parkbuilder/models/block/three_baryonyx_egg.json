@@ -1,0 +1,6 @@
+{
+  "parent": "parkbuilder:block/template_three_baryonyx_eggs",
+  "textures": {
+    "1": "parkbuilder:blocks/baryonyx_eggs"
+  }
+}

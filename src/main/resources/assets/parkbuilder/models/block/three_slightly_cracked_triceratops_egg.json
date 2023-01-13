@@ -1,0 +1,6 @@
+{
+  "parent": "parkbuilder:block/template_three_triceratops_eggs",
+  "textures": {
+    "1": "parkbuilder:blocks/triceratops_eggs_slightly_cracked"
+  }
+}

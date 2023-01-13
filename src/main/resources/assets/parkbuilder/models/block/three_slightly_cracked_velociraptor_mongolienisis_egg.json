@@ -1,0 +1,6 @@
+{
+  "parent": "parkbuilder:block/template_three_velociraptor_mongolienisis_eggs",
+  "textures": {
+    "1": "parkbuilder:blocks/velociraptor_mongolienisis_eggs_slightly_cracked"
+  }
+}

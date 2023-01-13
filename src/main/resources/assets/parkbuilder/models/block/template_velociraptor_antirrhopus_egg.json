@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "parkbuilder:blocks/velociraptor_antirrhopus_eggs",
+		"particle": "parkbuilder:blocks/velociraptor_antirrhopus_eggs"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 8, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 6], "texture": "#1"},
+				"east": {"uv": [0, 2, 2, 6], "texture": "#1"},
+				"south": {"uv": [6, 2, 8, 6], "texture": "#1"},
+				"west": {"uv": [4, 2, 6, 6], "texture": "#1"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#1"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#1"}
+			}
+		}
+	]
+}

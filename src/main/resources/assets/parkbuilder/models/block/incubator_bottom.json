@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "parkbuilder:blocks/incubator_bottom",
+		"particle": "parkbuilder:blocks/incubator_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 4, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [2, 4.5, 4, 5], "texture": "#0"},
+				"east": {"uv": [0, 4.5, 2, 5], "texture": "#0"},
+				"south": {"uv": [6, 4.5, 8, 5], "texture": "#0"},
+				"west": {"uv": [4, 4.5, 6, 5], "texture": "#0"},
+				"up": {"uv": [4, 4.5, 2, 2.5], "texture": "#0"},
+				"down": {"uv": [6, 2.5, 4, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 4, 1],
+			"to": [15, 16, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [1.75, 7.75, 3.5, 9.25], "texture": "#0"},
+				"east": {"uv": [0, 7.75, 1.75, 9.25], "texture": "#0"},
+				"south": {"uv": [5.25, 7.75, 7, 9.25], "texture": "#0"},
+				"west": {"uv": [3.5, 7.75, 5.25, 9.25], "texture": "#0"},
+				"up": {"uv": [3.5, 7.75, 1.75, 6], "texture": "#0"},
+				"down": {"uv": [5.25, 6, 3.5, 7.75], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [-8, 0, -8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

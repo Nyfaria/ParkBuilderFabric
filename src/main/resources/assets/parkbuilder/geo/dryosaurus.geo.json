@@ -1,0 +1,117 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 6,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "Dryosaurus",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "Body",
+					"parent": "Dryosaurus",
+					"pivot": [0, 15.2, -1],
+					"cubes": [
+						{"origin": [-4, 11.2, -15], "size": [8, 11, 20], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "Neck",
+					"parent": "Body",
+					"pivot": [0, 18.7, -14.6],
+					"cubes": [
+						{"origin": [-2, 15.2, -19], "size": [4, 12, 5], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "Head",
+					"parent": "Neck",
+					"pivot": [0.5, 23.8, -18.6],
+					"cubes": [
+						{"origin": [-2.5, 21.1, -22.4], "size": [5, 5, 5], "uv": [35, 49]},
+						{"origin": [-1.5, 21.1, -24.4], "size": [3, 4, 2], "uv": [0, 39]}
+					]
+				},
+				{
+					"name": "Tail1",
+					"parent": "Body",
+					"pivot": [0, 18.7, 6],
+					"cubes": [
+						{"origin": [-2, 16.2, 5], "size": [4, 5, 13], "uv": [22, 31]}
+					]
+				},
+				{
+					"name": "Tail2",
+					"parent": "Tail1",
+					"pivot": [0, 18.7, 19],
+					"cubes": [
+						{"origin": [-1, 18.2, 18], "size": [2, 3, 18], "uv": [0, 31]}
+					]
+				},
+				{
+					"name": "Armleft",
+					"parent": "Body",
+					"pivot": [-4, 12.2, -11.5],
+					"cubes": [
+						{"origin": [-5, 8.2, -13], "size": [3, 5, 3], "uv": [22, 31]}
+					]
+				},
+				{
+					"name": "Armright",
+					"parent": "Body",
+					"pivot": [4, 12.2, -11.5],
+					"cubes": [
+						{"origin": [2, 8.2, -13], "size": [3, 5, 3], "uv": [0, 31]}
+					]
+				},
+				{
+					"name": "LegCore",
+					"parent": "Dryosaurus",
+					"pivot": [0, 15, -1]
+				},
+				{
+					"name": "Legright",
+					"parent": "LegCore",
+					"pivot": [4, 16.2, 0],
+					"cubes": [
+						{"origin": [1, 9.2, -4], "size": [5, 10, 7], "uv": [36, 0]}
+					]
+				},
+				{
+					"name": "Kneeright",
+					"parent": "Legright",
+					"pivot": [3.3, 8.8, 0],
+					"cubes": [
+						{"origin": [2, 0.2, 3], "size": [3, 9, 0], "uv": [12, 35]},
+						{"origin": [2, 0.2, -1], "size": [3, 0, 4], "uv": [9, 0]}
+					]
+				},
+				{
+					"name": "Legleft",
+					"parent": "LegCore",
+					"pivot": [-4, 16.2, 0],
+					"cubes": [
+						{"origin": [-6, 9.2, -4], "size": [5, 10, 7], "uv": [49, 24]}
+					]
+				},
+				{
+					"name": "Kneeleft",
+					"parent": "Legleft",
+					"pivot": [-3.3, 8.8, 0],
+					"cubes": [
+						{"origin": [-5, 0.2, 3], "size": [3, 9, 0], "uv": [43, 31]},
+						{"origin": [-5, 0.2, -1], "size": [3, 0, 4], "uv": [8, 31]}
+					]
+				}
+			]
+		}
+	]
+}

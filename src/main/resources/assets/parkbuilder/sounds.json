@@ -1,0 +1,192 @@
+{
+  "triceratops_ambient": {
+    "sounds": [
+      {
+        "name": "parkbuilder:tric_ambient"
+      },
+      {
+        "name": "parkbuilder:tric_callb"
+      },
+      {
+        "name": "parkbuilder:tric_callc"
+      }
+
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.tric_ambient"
+  },
+  "triceratops_hurt": {
+    "sounds":[
+      {
+        "name": "parkbuilder:tric_hurt"
+      }
+    ]
+  },
+  "triceratops_death": {
+    "sounds": [
+      {
+        "name": "parkbuilder:tric_calla"
+      }
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.tric_death"
+  },
+
+  "triceratops_footstep": {
+    "sounds": [
+      {
+        "name": "parkbuilder:tric_footstep"
+      }
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.tric_foostep"
+  },
+  "velociraptor_m_ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:velociraptor_m_call"
+      }
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.velociraptor_m_ambient"
+  },
+  "velociraptor_m_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:velociraptor_m_hurt"
+      }
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.velociraptor_m_hurt"
+  },
+  "velociraptor_m_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:velociraptor_m_death"
+      }
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.velociraptor_m_death"
+  },
+  "velociraptor_a_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:rap_attacka"
+      },
+      {
+        "name": "parkbuilder:rap_calla"
+      },
+      {
+        "name": "parkbuilder:rap_attackb"
+      }
+
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.velociraptor_a_hurt"
+  },
+  "velociraptor_a_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:rap_attacka"
+      }
+
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.velociraptor_a_death"
+  },
+  "velociraptor_a_ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:rap_barka"
+      },
+      {
+        "name": "parkbuilder:rap_barkb"
+      },
+      {
+        "name": "parkbuilder:rap_barkc"
+      },
+      {
+        "name": "parkbuilder:rap_callb"
+      },
+      {
+        "name": "parkbuilder:rap_hissa"
+      },
+      {
+        "name": "parkbuilder:rap_hissb"
+      }
+
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.velociraptor_a_ambient"
+  },
+  "dryo_ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:dryo_callb"
+      },
+      {
+        "name": "parkbuilder:dryo_calla"
+      }
+
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.dryo_ambient"
+  },
+  "dryo_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:dryo_calla"
+      }
+
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.dryo_hurt"
+  },
+  "dryo_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:dryo_calla"
+      }
+
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.dryo_death"
+  },
+
+  "bary_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:bary_death"
+      }
+
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.bary_death"
+  },
+
+  "bary_ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:bary_calla"
+      },
+      {
+        "name": "parkbuilder:bary_callb"
+      },
+      {
+        "name": "parkbuilder:bary_ambienta"
+      },
+      {
+        "name": "parkbuilder:bary_ambientb"
+      }
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.bary_ambient"
+  },
+  "bary_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "parkbuilder:bary_hurt"
+      }
+
+    ],
+    "subtitle": "parkbuilder.sound.subtitle.bary_hurt"
+  }
+}

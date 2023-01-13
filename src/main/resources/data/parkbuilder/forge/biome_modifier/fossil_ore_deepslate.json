@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "parkbuilder:fossil_ore_deepslate",
+  "step": "underground_ores"
+}

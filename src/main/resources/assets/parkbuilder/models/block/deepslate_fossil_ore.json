@@ -1,0 +1,6 @@
+{
+  "parent":"minecraft:block/cube_all",
+  "textures": {
+    "all": "parkbuilder:blocks/fossil_ore_deepslate"
+  }
+}

@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "parkbuilder:blocks/dryosaurus_eggs",
+		"particle": "parkbuilder:blocks/dryosaurus_eggs"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 9],
+			"to": [11, 5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 0]},
+			"faces": {
+				"north": {"uv": [1.5, 6.5, 3, 9], "texture": "#0"},
+				"east": {"uv": [0, 6.5, 1.5, 9], "texture": "#0"},
+				"south": {"uv": [4.5, 6.5, 6, 9], "texture": "#0"},
+				"west": {"uv": [3, 6.5, 4.5, 9], "texture": "#0"},
+				"up": {"uv": [3, 6.5, 1.5, 5], "texture": "#0"},
+				"down": {"uv": [4.5, 5, 3, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 0, 5],
+			"to": [11, 5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, -4]},
+			"faces": {
+				"north": {"uv": [9.5, 1.5, 11, 4], "texture": "#0"},
+				"east": {"uv": [8, 1.5, 9.5, 4], "texture": "#0"},
+				"south": {"uv": [12.5, 1.5, 14, 4], "texture": "#0"},
+				"west": {"uv": [11, 1.5, 12.5, 4], "texture": "#0"},
+				"up": {"uv": [11, 1.5, 9.5, 0], "texture": "#0"},
+				"down": {"uv": [12.5, 0, 11, 1.5], "texture": "#0"}
+			}
+		}
+	]
+}

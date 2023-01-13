@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:sand"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:bone"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:gravel"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:sand"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:bone"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:gravel"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "parkbuilder:dna_dryosaurus"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "parkbuilder:dna_velociraptor_mongolienisis"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "parkbuilder:dna_velociraptor_antirrhopus"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "parkbuilder:dna_triceratops"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "parkbuilder:dna_baryonyx"
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+}
